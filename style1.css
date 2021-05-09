@@ -356,6 +356,10 @@ header.sticky ul li a{
     line-height: 1.7em;
     font-size: 20px;
 }
+   .testimonial .content .testimonialBox h{
+       color:white
+}
+
 /* Designing Contact Layout in CSS */
 .contact{
     background: #111;
